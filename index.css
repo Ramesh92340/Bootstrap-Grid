@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main_bg{
+    background-color: rgb(34, 1, 14);
+    background-size: cover;
+}
+
+
+.block1{
+    height: 50vh;
+    width: auto;
+    background-color: rgb(255, 42, 0);
+    border-top:15px solid rgb(34, 1, 14);
+    border-bottom: 10px solid rgb(34, 1, 14);
+    border-left: 5px solid rgb(34, 1, 14);
+    border-right: 2.5px solid rgb(34, 1, 14);
+}
+.block2{
+    height: 50vh;
+    width: auto;
+    background-color: rgb(224, 228, 228);
+    border-top: 10px solid rgb(34, 1, 14);
+    border-bottom: 15px solid rgb(34, 1, 14);
+    border-left: 5px solid rgb(34, 1, 14);
+    border-right: 2.5px solid rgb(34, 1, 14);
+}
+
+.block3{
+    height: 30vh;
+    width: auto;
+    background-color: rgb(129, 237, 237);
+    border: 15px solid rgb(34, 1, 14);
+}
+
+.block4{
+    height: 30vh;
+    width: auto;
+    background-color: rgb(240, 220, 109);
+    border: 15px solid rgb(34, 1, 14);
+}
+
+.block5{
+    height: 40vh;
+    width: auto;
+    background-color: rgb(240, 220, 109);
+    border: 15px solid rgb(34, 1, 14);
+}
+
+.block6{
+    height: 40vh;
+    width: auto;
+    background-color: rgb(224, 228, 228);
+    
+    border: 15px solid rgb(34, 1, 14);
+}
+.block7{
+    height: 30vh;
+    width: auto;
+    background-color: rgb(255, 42, 0);
+    border: 15px solid rgb(34, 1, 14);
+}
+
+.block8{
+    height: 30vh;
+    width: auto;
+    background-color: rgb(129, 237, 237);
+    border: 15px solid rgb(34, 1, 14);
+}
+
+.block9{
+    height: 70vh;
+    width: auto;
+    background-color: rgb(255, 42, 0);
+    border: 15px solid rgb(34, 1, 14);
+}
